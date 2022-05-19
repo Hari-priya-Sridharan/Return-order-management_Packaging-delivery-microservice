@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PackagingAndDeliveryApplication<packaging-and-delivery>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.packagingandelivery.PackagingAndDeliveryApplication",
+            "projectName": "packaging-and-delivery",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
